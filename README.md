@@ -11,6 +11,9 @@ This git will be used to store the code to process data (extract, structure and 
 
 ### Important Sections
 C-TO8.4
+
 C-TO7.8
+
 C.4.5a
+
 C.6.10
