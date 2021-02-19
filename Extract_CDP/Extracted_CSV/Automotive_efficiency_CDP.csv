@@ -1,0 +1,80 @@
+,Title,Activity,Metric figure,Metric numerator,Metric denominator,Metric numerator: Unit total,Metric denominator: Unit total,% change from previous year
+0,Mazda Motor Corporation - Climate Change 2020,Light Duty Vehicles (LDV),0.0001462,tCO2,Use phase: Vehicle.km,31068378,212433635100,-2.46
+1,Groupe PSA - Climate Change 2020,Light Duty Vehicles (LDV),0.339,tCO2e,Production: Vehicle,1026635,3028422,43.6
+2,Hyundai Motor Co - Climate Change 2018,Light Duty Vehicles (LDV),1.5747,tCO2e,Production: Vehicle,2602842,1652877,1.58
+3,Groupe PSA - Climate Change 2019,Light Duty Vehicles (LDV),0.37,tCO2e,Production: Vehicle,1162488,3124968,43.6
+4,Hyundai Motor Co - Climate Change 2020,Light Duty Vehicles (LDV),1.5167,tCO2e,Production: Vehicle,2709093,1786131,-5.72
+5,"Honda Motor Co., Ltd. - Climate Change 2020",Light Duty Vehicles (LDV),129,"Other, please specify (gCO2/km)",Production: Vehicle,667000000,4890000,-0.5
+6,"Nissan Motor Co., Ltd. - Climate Change 2018",Light Duty Vehicles (LDV),0.58,tCO2e,Production: Vehicle,3306384,5672000,-7.6
+7,Fiat Chrysler Automobiles NV - Climate Change 2018,Light Duty Vehicles (LDV),25,tCO2,Production: Vehicle,90152474,3591574,-3
+8,Daimler AG - Climate Change 2018,Light Duty Vehicles (LDV),0.843,tCO2,Production: Vehicle,1530180,1814839,-1.73
+9,Daimler AG - Climate Change 2018,Heavy Duty Vehicles (HDV),1.844,tCO2,Production: Vehicle,878682,476443,-12.39
+10,Volkswagen AG - Climate Change 2018,Light Duty Vehicles (LDV),0.8185,tCO2e,Production: Vehicle,8731064,10667549,-8.8
+11,Volkswagen AG - Climate Change 2018,Heavy Duty Vehicles (HDV),nan,Please select,Please select,nan,nan,Please explain
+12,Ford Motor Company - Climate Change 2018,Light Duty Vehicles (LDV),186.2,tCO2e,Use phase: Vehicle.km,161356663,866371800000,1.3
+13,Ford Motor Company - Climate Change 2018,Light Duty Vehicles (LDV),0.63,tCO2e,Production: Vehicle,4168442,6602888,-9.7
+14,Daimler AG - Climate Change 2020,Light Duty Vehicles (LDV),0.74133,tCO2,Production: Vehicle,1181294,1593476,-13.71
+15,Daimler AG - Climate Change 2020,Heavy Duty Vehicles (HDV),1.666287734,tCO2,Production: Vehicle,803244,482056,-2.36
+16,Isuzu Motors Limited - Climate Change 2018,Heavy Duty Vehicles (HDV),638,tCO2,Life cycle (please explain assumptions),638,1,98
+17,Isuzu Motors Limited - Climate Change 2018,Heavy Duty Vehicles (HDV),189,tCO2,Life cycle (please explain assumptions),189,1,99
+18,Renault - Climate Change 2020,Light Duty Vehicles (LDV),0.39,tCO2e,Production: Vehicle,1212351,3120008,3.77
+19,SUBARU CORPORATION - Climate Change 2018,Light Duty Vehicles (LDV),20.31,tCO2,"Other, please specify (\xe5\xa3\xb2\xe4\xb8\x8a\xe9\xab\x98\xef\xbc\x88\xe5\x84\x84\xe5\x86\x86\xef\xbc\x89)",691590,34052.21,-0.01
+20,PACCAR Inc - Climate Change 2020,Heavy Duty Vehicles (HDV),1.4,tCO2e,Production: Vehicle,285498,198800,-7
+21,Ferrari - Climate Change 2019,Light Duty Vehicles (LDV),49.7,MWh,Production: Vehicle,459693,9251,-8.5
+22,PACCAR Inc - Climate Change 2019,Heavy Duty Vehicles (HDV),1.5,tCO2e,Production: Vehicle,292716,189100,-11
+23,Mahindra &amp; Mahindra - Climate Change 2018,Light Duty Vehicles (LDV),158,"Other, please specify (gm/km is the metric)",Use phase: Vehicle.km,158,1,3.2
+24,Ford Motor Company - Climate Change 2020,Light Duty Vehicles (LDV),0.00019,tCO2,Use phase: Vehicle.km,134759224,699165900000,6.1
+25,Ford Motor Company - Climate Change 2020,Light Duty Vehicles (LDV),0.68,tCO2e,Production: Vehicle,3636301,5351771,4.6
+26,Toyota Motor Corporation - Climate Change 2020,Light Duty Vehicles (LDV),23.66,tCO2e,Production: Vehicle,248450806,10500798,91
+27,Toyota Motor Corporation - Climate Change 2020,Heavy Duty Vehicles (HDV),318.7,tCO2e,Production: Vehicle,57371134,180024,93.4
+28,Ferrari - Climate Change 2020,Light Duty Vehicles (LDV),47.54,MWh,Production: Vehicle,481646,10131,-4.3
+29,BMW AG - Climate Change 2018,Light Duty Vehicles (LDV),0.000122,tCO2,Use phase: Vehicle.km,17514183,143666250000,-1.6
+30,Isuzu Motors Limited - Climate Change 2019,Heavy Duty Vehicles (HDV),637.67,tCO2,Production: Vehicle,19494286,30571,0
+31,Isuzu Motors Limited - Climate Change 2019,Heavy Duty Vehicles (HDV),189.46,tCO2,Production: Vehicle,7898869,41691,0
+32,Mitsubishi Motors Corporation - Climate Change 2020,Light Duty Vehicles (LDV),0.159,"Other, please specify (kg-CO2)",Use phase: Vehicle.km,26833360,169050000000,11
+33,General Motors Company - Climate Change 2020,Light Duty Vehicles (LDV),24.52,tCO2e,Production: Vehicle,190123729,7718000,1
+34,Mitsubishi Motors Corporation - Climate Change 2019,Light Duty Vehicles (LDV),0.18,"Other, please specify (kg-CO2)",Use phase: Vehicle.km,33198740000,186000000000,8
+35,Renault - Climate Change 2018,Light Duty Vehicles (LDV),1.71,MWh,Production: Vehicle,5687404,3318534,0.94
+36,Renault - Climate Change 2018,Light Duty Vehicles (LDV),124.9,"Other, please specify (g CO2)",Use phase: Vehicle.km,370660762,2966507,1.01
+37,BYD - Climate Change 2020,,,,,,,
+38,BMW AG - Climate Change 2019,Light Duty Vehicles (LDV),2.12,MWh,Production: Vehicle,4756049,2248249,-2.3
+39,Groupe PSA - Climate Change 2018,Light Duty Vehicles (LDV),0.259,tCO2e,Production: Vehicle,563866,2174204,-6
+40,Navistar International Corporation - Climate Change 2019,Heavy Duty Vehicles (HDV),,Please select,Production: Vehicle,,,Please explain
+41,Volkswagen AG - Climate Change 2019,Light Duty Vehicles (LDV),0.78,tCO2e,Production: Vehicle,8359513,10787245,-5.3
+42,Volkswagen AG - Climate Change 2019,Heavy Duty Vehicles (HDV),1.84,tCO2,Production: Vehicle,440781,239419,-17.9
+43,"Honda Motor Co., Ltd. - Climate Change 2018",Light Duty Vehicles (LDV),139.8,tCO2e,Production: Vehicle,675000000,4830000,0
+44,Hyundai Motor Co - Climate Change 2019,Light Duty Vehicles (LDV),1.57,tCO2e,Production: Vehicle,2751306,1747837,-4.29
+45,Renault - Climate Change 2019,Light Duty Vehicles (LDV),0.37,tCO2e,Production: Vehicle,1216711,3249209,-3
+46,Ford Motor Company - Climate Change 2019,Light Duty Vehicles (LDV),0.18,"Other, please specify (kg/CO2)",Use phase: Vehicle.km,134477144353,740012850000,-2.5
+47,Ford Motor Company - Climate Change 2019,Light Duty Vehicles (LDV),0.66,tCO2e,Production: Vehicle,3967378,5962289,5.4
+48,"Nissan Motor Co., Ltd. - Climate Change 2019",Light Duty Vehicles (LDV),0.49,"Other, please specify (Other: Manufacturing CO2 (tCO2e))",Production: Vehicle,2610000,5362000,2
+49,Fiat Chrysler Automobiles NV - Climate Change 2019,Light Duty Vehicles (LDV),24.75,tCO2,Production: Vehicle,85899110,3471312,-1.42
+50,Toyota Motor Corporation - Climate Change 2018,Light Duty Vehicles (LDV),26,tCO2,Production: Vehicle,266439571,10075271,111
+51,Toyota Motor Corporation - Climate Change 2018,Heavy Duty Vehicles (HDV),330,tCO2,Production: Vehicle,58131515,176159,107
+52,Mahindra &amp; Mahindra - Climate Change 2020,Light Duty Vehicles (LDV),137,gCO2e,Use phase: Vehicle.km,137,1,-13.3
+53,Mahindra &amp; Mahindra - Climate Change 2020,Light Duty Vehicles (LDV),159.07,gCO2e,Use phase: Vehicle.km,159.07,1,1.57
+54,Fiat Chrysler Automobiles NV - Climate Change 2020,Light Duty Vehicles (LDV),25.49,tCO2,Production: Vehicle,92524830,3630242,2.99
+55,Mitsubishi Motors Corporation - Climate Change 2018,Light Duty Vehicles (LDV),0.000164,tCO2,Use phase: Vehicle.km,30731365,187297500000,12
+56,PACCAR Inc - Climate Change 2018,Heavy Duty Vehicles (HDV),1.7,tCO2e,Production: Vehicle,275463,158900,-13
+57,BMW AG - Climate Change 2020,Light Duty Vehicles (LDV),2.04,MWh,Production: Vehicle,4782738,2337697,-3.8
+58,SUBARU CORPORATION - Climate Change 2020,Light Duty Vehicles (LDV),30.36,tCO2,Production: Vehicle,31390639,1039900,1
+59,Navistar International Corporation - Climate Change 2018,,,,,,,
+60,Mazda Motor Corporation - Climate Change 2019,Light Duty Vehicles (LDV),143.4,tCO2,Use phase: Vehicle.km,31853480,222120991500,3
+61,General Motors Company - Climate Change 2019,Light Duty Vehicles (LDV),2.49,tCO2e,Production: Vehicle,20837550,8380000,0.34
+62,SUBARU CORPORATION - Climate Change 2019,Light Duty Vehicles (LDV),21.48,tCO2,"Other, please specify (\xe5\xa3\xb2\xe4\xb8\x8a\xe9\xab\x98\xef\xbc\x88\xe5\x84\x84\xe5\x86\x86\xef\xbc\x89)",678839,31605,1.17
+63,Volkswagen AG - Climate Change 2020,Light Duty Vehicles (LDV),7057,tCO2e,Production: Vehicle,7481201,10600876,-5.5
+64,Volkswagen AG - Climate Change 2020,Heavy Duty Vehicles (HDV),1894,tCO2,Production: Vehicle,421379,222502,-1.9
+65,"Honda Motor Co., Ltd. - Climate Change 2019",Light Duty Vehicles (LDV),133.9,"Other, please specify (g-CO2e/km)",Production: Vehicle,654000000,4890000,-4.2
+66,Suzuki Motor Corporation - Climate Change 2020,Light Duty Vehicles (LDV),0.351,tCO2,Production: Vehicle,1189873,3393976,-3
+67,BYD - Climate Change 2018,,,,,,,
+68,Mahindra &amp; Mahindra - Climate Change 2019,Light Duty Vehicles (LDV),156,"Other, please specify (gm/km is the metric)",Use phase: Vehicle.km,156,1,-1.27
+69,Mahindra &amp; Mahindra - Climate Change 2019,Light Duty Vehicles (LDV),145,"Other, please specify (gm/km is the metric)",Use phase: Vehicle.km,145,1,-1.36
+70,Isuzu Motors Limited - Climate Change 2020,Heavy Duty Vehicles (HDV),623.72,tCO2,Production: Vehicle,18053564,28945,-2.2
+71,Isuzu Motors Limited - Climate Change 2020,Heavy Duty Vehicles (HDV),169.28,tCO2,Production: Vehicle,7178655,42408,3.5
+72,Toyota Motor Corporation - Climate Change 2019,Light Duty Vehicles (LDV),26,tCO2e (t-CO2e per vehicle),Production: Vehicle,266983044.35,10247047,-4
+73,Toyota Motor Corporation - Climate Change 2019,Heavy Duty Vehicles (HDV),341,tCO2e,Production: Vehicle,67065237.69,196479,3
+74,Suzuki Motor Corporation - Climate Change 2019,Light Duty Vehicles (LDV),0.36,tCO2,Production: Vehicle,1209182,3338281,-0.3
+75,"Nissan Motor Co., Ltd. - Climate Change 2020",Light Duty Vehicles (LDV),0.51,"Other, please specify (Other: Manufacturing CO2 (tCO2e))",Production: Vehicle,2408000,4757000,4
+76,Navistar International Corporation - Climate Change 2020,Heavy Duty Vehicles (HDV),,Please select,Production: Vehicle,,,Please explain
+77,Mazda Motor Corporation - Climate Change 2018,Light Duty Vehicles (LDV),144,tCO2,Use phase: Vehicle.km,30820110,214557,99.18
+78,General Motors Company - Climate Change 2018,Light Duty Vehicles (LDV),0.00017,tCO2e,Use phase: Vehicle.km,22092911,133725000000,2.3
